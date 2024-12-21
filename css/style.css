@@ -6,6 +6,7 @@ body {
     background: #dddddd;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
+    zoom: 0.8; /* Reduces the size of all content on the page */
 }
 
 h1,
